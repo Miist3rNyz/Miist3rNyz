@@ -1,10 +1,47 @@
-- 👋 Hi, I’m @Miist3rNyz
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning cybersecurity and coding
-- 💞️ I’m looking to collaborate on cybersecurity project
-- 📫 How to reach me kevin.kesteloot@outlook.com and on linkedin : https://www.linkedin.com/in/kevin-kesteloot-506ba8195/ 
-
-<!---
-Miist3rNyz/Miist3rNyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<b>Élève-ingénieur en 4ème année</b>
+Spécialité informatique, automatique, robotique et réseaux
+Domaines de prédilection :
+sécurité informatique
+cyberdéfense
+pentest
+résolution de vulnérabilités
+analyse de malwares
+développement web et applicatif (bureautique et mobile)
+développement embarqué (microcontrôleurs)
+Technologies utilisées :
+Web : HTML HTML, CSS (Bulma - Bootstrap) CSS, JS (Ajax - JQuery) JS, PHP (Laravel) PHP, Python (Flask) HTML, Java (Spring) JAVA
+BDD : MySQL MySQL, SQLite SQLite
+Bureautique : C# (WPF) C#, Python (Tkinter) Python, C++ (Gtkmm) C++, JS (ElectronJs) JS
+Mobile : React Native React
+Embarqué : C++ C++, Python Python
+IDEs utilisés :
+VSCode VSCode
+Visual Studio Visual Studio
+IntelliJ IntelliJ
+Android Studio Android Studio
+STM32Cube STM32Cube
+Eclipse Eclipse
+Vim Vim
+Projets effectués :
+Dashboard de diagnostic, pilotage et contrôle de robots (Laravel, Bulma CSS, SQL) - Projet Robotech Nancy (2022)
+Apprentissage et utilisation des design pattern en JAVA - Cours de génie logiciel (2022)
+Exemples de base en C# avec WPF (calculatrice, explorateur de fichiers, navigateur web) - Cours (2022)
+Exemples de base en Java & Spring (page web + communication avec une BDD) - Cours (2022)
+Application de bureau sous linux (C++ - GTkmm) permettant le contrôle d'un robot via websockets - Cours (2021)
+Application de chat en ligne (HTML, CSS, JS, PHP, SQL) - Projet SEAmail (2021)
+Réalisation de librairies pour des capteurs ToF et des gyroscopes STM32 (C++) - Projet Robotech Nancy (2021)
+Réalisation d'une librairie de communication pour des cartes XBee (protocole ZigBee, commandes AT, C++) - Projet Robotech Nancy (2021)
+Réalisation de l'interface graphique d'un écran STM32 dédié au robot (C++) + mise en place d'un protocole de communication via UART - Projet Robotech Nancy (2021)
+Maintenance d'un serveur sous ubuntu + création/déploiement d'applications avec docker - Polytech Services Nancy (2020)
+Réalisation d'une application web simple pour centraliser les liens vers les outils internes (HTML, CSS, PHP) - Polytech Services Nancy (2020)
+Formations auprès d'étudiants sur les risques cyber de base - Polytech Services Nancy (2020)
+Autres compétences :
+Environnement Linux (Debian & Ubuntu)
+Commandes et scripts bash
+Conteneurs Docker
+Outils de versionnement de code
+Suivi de projets informatiques
+Utilisation de websockets en C++
+Programmation sur RaspberryPi
+Liens associés :
+Profil RootMe : @heatsinkru
