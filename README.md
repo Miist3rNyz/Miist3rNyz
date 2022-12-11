@@ -1,7 +1,7 @@
-<b>Élève-ingénieur en 4ème année</b><br>
+<h1><b>Élève-ingénieur en 4ème année</b></h1><br>
 
 -----------------
-<b>Spécialité informatique, automatique, robotique et réseaux</b><br>
+<h2><b>Spécialité informatique, automatique, robotique et réseaux</b></h2><br>
 
 -----------------
 <b>Domaines de prédilection :</b><br>
