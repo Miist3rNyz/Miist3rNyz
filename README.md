@@ -12,7 +12,7 @@
 
 -----------------
 <b>Technologies utilisées :</b><br>
-  * <b>Web : </b>HTML [HTMl](https://fontawesome.com/icons/html5?s=solid&f=brands), CSS (Bulma), Java (Spring)<br>
+  * <b>Web : </b>HTML <i class="fa-brands fa-html5"></i>, CSS (Bulma), Java (Spring)<br>
   * <b>BDD :</b> MySQL<br>
 * <b>Bureautique :</b> C# (WPF) , Python (Tkinter) , C++ (Gtkmm)<br>
 * <b>Embarqué :</b> C++ <br>
