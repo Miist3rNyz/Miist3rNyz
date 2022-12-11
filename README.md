@@ -1,5 +1,7 @@
 <b>Élève-ingénieur en 4ème année</b><br>
+-----------------
 <b>Spécialité informatique, automatique, robotique et réseaux</b><br>
+-----------------
 <b>Domaines de prédilection :</b><br>
 sécurité informatique<br>
 cyberdéfense<br>
@@ -7,14 +9,13 @@ pentest<br>
 résolution de vulnérabilités<br>
 analyse de malwares<br>
 développement applicatif (bureautique)<br>
-
+-----------------
 <b>Technologies utilisées :</b><br>
   <b>Web : </b>HTML, CSS (Bulma), Java (Spring)<br>
-  <b>BDD</b> : MySQL<br>
-Bureautique : C# (WPF) C#, Python (Tkinter) Python, C++ (Gtkmm) C++, JS (ElectronJs) JS
-Mobile : React Native React
-Embarqué : C++ C++, Python Python
-IDEs utilisés :
+  <b>BDD :</b> MySQL<br>
+<b>Bureautique :</b> C# (WPF) , Python (Tkinter) , C++ (Gtkmm)<br>
+<b>Embarqué :</b> C++ <br>
+<b>IDEs utilisés :</b><br>
 VSCode VSCode
 Visual Studio Visual Studio
 IntelliJ IntelliJ
