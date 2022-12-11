@@ -9,6 +9,7 @@ pentest<br>
 résolution de vulnérabilités<br>
 analyse de malwares<br>
 développement applicatif (bureautique)<br>
+
 -----------------
 <b>Technologies utilisées :</b><br>
   <b>Web : </b>HTML, CSS (Bulma), Java (Spring)<br>
