@@ -1,6 +1,6 @@
 <b>Élève-ingénieur en 4ème année</b><br>
 <b>Spécialité informatique, automatique, robotique et réseaux</b><br>
-<b>Domaines de prédilection :<b><br>
+<b>Domaines de prédilection :</b><br>
 sécurité informatique<br>
 cyberdéfense<br>
 pentest<br>
