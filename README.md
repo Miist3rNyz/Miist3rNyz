@@ -1,16 +1,16 @@
-<b>Élève-ingénieur en 4ème année</b>
-Spécialité informatique, automatique, robotique et réseaux
-Domaines de prédilection :
-sécurité informatique
-cyberdéfense
-pentest
-résolution de vulnérabilités
-analyse de malwares
-développement web et applicatif (bureautique et mobile)
-développement embarqué (microcontrôleurs)
-Technologies utilisées :
-Web : HTML HTML, CSS (Bulma - Bootstrap) CSS, JS (Ajax - JQuery) JS, PHP (Laravel) PHP, Python (Flask) HTML, Java (Spring) JAVA
-BDD : MySQL MySQL, SQLite SQLite
+<b>Élève-ingénieur en 4ème année</b><br>
+<b>Spécialité informatique, automatique, robotique et réseaux</b><br>
+<b>Domaines de prédilection :<b><br>
+sécurité informatique<br>
+cyberdéfense<br>
+pentest<br>
+résolution de vulnérabilités<br>
+analyse de malwares<br>
+développement applicatif (bureautique)<br>
+
+<b>Technologies utilisées :</b><br>
+  <b>Web : </b>HTML, CSS (Bulma), Java (Spring)<br>
+  <b>BDD</b> : MySQL<br>
 Bureautique : C# (WPF) C#, Python (Tkinter) Python, C++ (Gtkmm) C++, JS (ElectronJs) JS
 Mobile : React Native React
 Embarqué : C++ C++, Python Python
