@@ -1,13 +1,13 @@
-<h1><b>Élève-ingénieur en 4ème année</b></h1><br>
+<h1><b>Élève-ingénieur en 5ème année</b></h1><br>
 
-<h2><b>Spécialité informatique, automatique, robotique et réseaux</b></h2><br>
+<h2><b>Spécialité informatique, automatique, robotique et réseaux, Double diplôme maitrise informatique</b></h2><br>
 
 <b>Domaines de prédilection :</b><br>
 * sécurité informatique<br>
 * cyberdéfense<br>
+* gestion des incidents de sécurité<br>
 * pentest<br>
 * résolution de vulnérabilités<br>
-* analyse de malwares<br>
 * développement applicatif (bureautique)<br>
 
 -----------------
@@ -30,7 +30,8 @@
 
 -----------------
 
-<b>Projets effectués :</b>  
+<b>Projets effectués :</b>
+* Développement d'une application de création d'environnement entièrement configurable pour cours avec Docker, Kubernetes, Apache guacamole - Conception et architecture des systèmes infuonuagiques - Cours (2023)
 * Apprentissage et utilisation des design pattern en JAVA - Cours de génie logiciel (2022)  
 * Exemples de base en C# avec WPF (calculatrice, explorateur de fichiers, navigateur web) - Cours (2022)  
 * Exemples de base en Java & Spring (page web + communication avec une BDD) - Cours (2022)  
@@ -39,7 +40,8 @@
 
 -----------------
 
-<b>Autres compétences :</b>  
+<b>Autres compétences :</b>
+* Kubernetes et Docker
 * Environnement Linux (Debian & Ubuntu & Kali Linux)  
 * Commandes et scripts bash
 * Outils de versionnement de code (GitHub)
