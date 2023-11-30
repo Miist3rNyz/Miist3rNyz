@@ -1,6 +1,6 @@
 <h1><b>Élève-ingénieur en 5ème année</b></h1><br>
 
-<h2><b>Spécialité informatique, automatique, robotique et réseaux / Double diplôme maitrise informatique accès sur la cybersécurité</b></h2><br>
+<h2><b>Spécialité informatique, automatique, robotique et réseaux / Double diplôme maitrise informatique cybersécurité</b></h2><br>
 
 <b>Domaines de prédilection :</b><br>
 * sécurité informatique<br>
