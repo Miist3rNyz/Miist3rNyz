@@ -31,6 +31,7 @@
 -----------------
 
 <b>Projets effectués :</b>
+* Mise en place d'une SIEM avec Wazuh sur Docker - Cours (2023)
 * Développement d'une application de création d'environnement entièrement configurable pour cours avec Docker, Kubernetes, Apache guacamole - Conception et architecture des systèmes infuonuagiques - Cours (2023)
 * Apprentissage et utilisation des design pattern en JAVA - Cours de génie logiciel (2022)  
 * Exemples de base en C# avec WPF (calculatrice, explorateur de fichiers, navigateur web) - Cours (2022)  
